@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:40:49.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="S8CiTLFd5qfvfnZA_h3o" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:44:44.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nshDnr4ZIfu9aOEGNFF2" version="15.7.3" type="github">
   <diagram id="qYtG-a8lDuCber2_HTPU" name="第 1 页">
-    <mxGraphModel dx="1883" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,10 @@
           <mxGeometry x="640" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TgehsIDATV7xhi2gPNsP-10" value="基础脚手架&lt;br&gt;lunling-mf-cli：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="135" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="125" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TgehsIDATV7xhi2gPNsP-11" value="业务项目:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="135" y="190" width="70" height="20" as="geometry" />
+        <mxCell id="TgehsIDATV7xhi2gPNsP-11" value="业务项目/mf模块:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sSeV7hXw5rhQuQ9Eckyw-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="230" y="160" width="400" height="140" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="278.0090909090909" y="6.588235294117646" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sSeV7hXw5rhQuQ9Eckyw-5" value="其他工具/SDK :" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="114" width="100" height="20" as="geometry" />
+          <mxGeometry x="115" y="114" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sSeV7hXw5rhQuQ9Eckyw-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=7;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="334" width="25" height="100" as="geometry" />
@@ -130,8 +130,8 @@
         <mxCell id="sSeV7hXw5rhQuQ9Eckyw-47" value="基础布局&lt;br&gt;BasicLayout..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="696" y="572.46" width="80" height="33.41" as="geometry" />
         </mxCell>
-        <mxCell id="sSeV7hXw5rhQuQ9Eckyw-48" value="地方项目：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="105" y="527.5" width="80" height="10" as="geometry" />
+        <mxCell id="sSeV7hXw5rhQuQ9Eckyw-48" value="地方项目&lt;span style=&quot;font-size: 12px&quot;&gt;/mf&lt;br&gt;模块&lt;/span&gt;：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="522.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sSeV7hXw5rhQuQ9Eckyw-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rounded=1;fontSize=7;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="426.5" y="376" width="40" height="28" as="geometry" />
